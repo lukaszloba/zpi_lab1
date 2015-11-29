@@ -17,15 +17,24 @@ ALERT("ASDASDASD");
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: transition.js v3.3.6
+ 
+Loba dodał!! * 
+ * * Bootstrap: transition.js v3.3.6
  * http://getbootstrap.com/javascript/#transitions
  * ========================================================================
+<<<<<<< HEAD
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== 
  * Łukasz Łoba ma zle
  * 
  * */
+=======
+
+ *  * ======================================================================== */
+
+
+>>>>>>> c99eead44b1eba3445d5c847c64e57f46e48c20d
 
 
 +function ($) {
